@@ -2,7 +2,7 @@ let a=13;
 let c=0;
 for(let i=1;i<=a;i++)
   {
-    if(a%2==0)
+    if(a%i==0)
     {
       c++;
     }
